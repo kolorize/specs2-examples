@@ -1,4 +1,4 @@
-package com.viacom.funnel.steps
+package specs2.examples
 
 import org.junit._
 import Assert._
