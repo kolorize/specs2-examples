@@ -1,4 +1,4 @@
-package com.viacom.vudb.infrastructure
+package specs2.examples
 import org.specs2._
 import org.junit.runner._
 import org.specs2.matcher.DataTables
