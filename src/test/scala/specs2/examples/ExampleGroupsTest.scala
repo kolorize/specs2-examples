@@ -1,5 +1,5 @@
   
-package com.viacom.funnel.steps
+package specs2.examples
 
 import org.specs2.specification.Grouped
 
