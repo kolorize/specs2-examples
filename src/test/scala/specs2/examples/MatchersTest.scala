@@ -1,4 +1,4 @@
-package com.viacom.funnel.steps
+package specs2.examples
 
 import org.specs2.matcher.Matcher
 import org.specs2.mutable._
